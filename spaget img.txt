@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Spectacular Mountain</h2>
+<img src="spaget" alt="spaget" style="width:350px;height:420px;">
+
+</body>
+</html>
